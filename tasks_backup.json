@@ -1,0 +1,26 @@
+[
+    {
+        "title": "project",
+        "description": "to_do_list",
+        "category": "urgent",
+        "completed": false
+    },
+    {
+        "title": "assignment",
+        "description": "python",
+        "category": "work",
+        "completed": true
+    },
+    {
+        "title": "cleaning",
+        "description": "house",
+        "category": "personal",
+        "completed": false
+    },
+    {
+        "title": "assignment2",
+        "description": "java",
+        "category": "work",
+        "completed": false
+    }
+]
